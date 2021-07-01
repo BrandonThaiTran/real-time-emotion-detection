@@ -8,7 +8,9 @@ authors = ["Brandon Thai Tran <xbrandonthaitran@gmail.com>"]
 python = "^3.8"
 jupyterlab = "^3.0.16"
 numpy = "^1.21.0"
-opencv-python = "^4.5.2"
+urllib3 = "^1.26.6"
+matplotlib = "^3.4.2"
+opencv-contrib-python = "^4.5.2"
 
 [tool.poetry.dev-dependencies]
 
